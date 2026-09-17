@@ -8,7 +8,7 @@
             <h1 class="text-2xl font-bold text-gray-800">Data Pasien Homecare</h1>
             <!-- Tombol ini bisa dihubungkan ke modal atau halaman create -->
             <a href="{{ route('admin.patients.create') }}"
-                class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium">
+                class="bg-teal-600 hover:bg-teal-700 text-white px-4 py-2 rounded-lg text-sm font-medium">
                 Tambah Pasien
             </a>
         </div>

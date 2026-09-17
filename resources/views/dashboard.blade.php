@@ -5,18 +5,10 @@
 
         <!-- Hero Section -->
         <div class="bg-teal-600 rounded-2xl shadow-xl overflow-hidden mb-8">
-            <div class="px-8 py-12 md:p-16 text-center md:text-left md:flex md:items-center md:justify-between">
-                <div class="mb-8 md:mb-0 md:max-w-xl">
-                    <h1 class="text-3xl md:text-4xl font-extrabold text-white mb-4">
-                        Rumah Sehat Banyuwangi <span>Sahabat Sehat Keluarga Banyuwangi</span>
-                    </h1>
-                </div>
-                <div>
-                    <a href="{{ route('admin.patients.index') }}"
-                        class="inline-block bg-white text-teal-600 font-bold px-8 py-4 rounded-full shadow hover:bg-gray-50 transition-colors">
-                        Mulai Kelola Pasien &rarr;
-                    </a>
-                </div>
+            <div class="px-8 py-12 md:p-16 text-center">
+                <h1 class="text-3xl md:text-4xl font-extrabold text-white mb-4">
+                    Rumah Sehat Banyuwangi <br> <span class="text-[#0D9488]">Sahabat Sehat Keluarga Banyuwangi</span>
+                </h1>
             </div>
         </div>
 
